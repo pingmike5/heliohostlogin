@@ -1,3 +1,5 @@
-Environment variables
-
-
+自行添加以下变量：
+USERNAME
+PASSWORD
+TELEGRAM_CHAT_ID
+TELEGRAM_BOT_TOKEN
