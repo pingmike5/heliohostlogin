@@ -3,7 +3,7 @@ name: Run HelioHost Login Script
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 11 * * 5'  # 每周五北京时间19时运行一次
+    - cron: '13 11 * * 5'  # 每周五北京时间19时运行一次
   push:
     branches:
       - main
